@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Zhenyu Liu
-- 👀 I’m interested in federated learning, domain generalization, largr language model, vision-language model, 3D reconstruction.
+- 👋 Hi, I’m Zhenyu Liu.
+- 👀 I’m interested in federated learning, domain generalization, large language models, vision-language models, and 3D reconstruction.
 - 🌱 I’m currently learning 3D reconstruction of the DSA.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me liuzhenyu618@gmail.com
+- 📫 How to reach me: liuzhenyu618@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
